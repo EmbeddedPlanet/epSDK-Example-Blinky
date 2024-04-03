@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "time_helper.h": "c",
+        "uart_helper.h": "c",
+        "cell_helper.h": "c",
+        "stdbool.h": "c",
+        "mc33397.h": "c"
+    }
+}
