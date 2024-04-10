@@ -13,6 +13,14 @@ The epSDK is provided as a library file compatible with either Connected Sensor,
 
 ![epSDK-current-state]
 
+The blinky example is intented to get users familiar with and assess the epSDK. The example utilizes the debug UART and LED static libraries of the epSDK to flash a pattern on the LED and print debug messages. Contact EP to discuss purchasing options or questions about the epSDK.
+
+•	Sales: sales@embeddedplanet.com
+
+•	Information Requests: info@embeddedplanet.com
+
+•	Technical Support: support@embeddedplanet.com
+
 ## License
 
 The software is provided under the [Apache-2.0 license](LICENSE-apache-2.0.txt).
