@@ -1,7 +1,7 @@
 [![epSDK Blinky Example][ep-logo]][ep-link]
 
 [ep-logo]: logo.png
-[epSDK-current-state]: epSDK-current-state.png
+[epSDK-current-state]: epSDK-current-state.PNG
 [ep-link]: https://www.embeddedplanet.com/
 [ep-doc-link]: https://www.embeddedplanet.com/product-documentation
 
@@ -11,7 +11,7 @@ The intended use of epSDK is with EP supplied hardware and a FreeRTOS OS running
 
 The epSDK is provided as a library file compatible with either Connected Sensor, Connected Equipment, or Connected Vehicle. Contact EP to discuss customizations.
 
-[![epSDK-current-state]]
+![epSDK-current-state]
 
 ## License
 
