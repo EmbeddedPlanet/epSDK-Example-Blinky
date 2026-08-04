@@ -30,3 +30,6 @@ The epSDK Blinky QuickStart Guide and epSDK User Guide can be found on the [EP D
 
 ## Getting Started
 Follow the steps in the epSDK Blinky QuickStart Guide to get the unit up and running.
+
+## Embedded Planet Documentation Control System 
+Archived under P37300000000096
