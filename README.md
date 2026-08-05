@@ -1,7 +1,7 @@
 [![epSDK Blinky Example][ep-logo]][ep-link]
 
 [ep-logo]: logo.png
-[epSDK-current-state]: epSDK-current-state.PNG
+[epSDK-current-state]: epSDK_Current_State.png
 [ep-link]: https://www.embeddedplanet.com/
 [ep-doc-link]: https://www.embeddedplanet.com/product-documentation
 
@@ -23,7 +23,7 @@ The blinky example is intented to get users familiar with and assess the epSDK. 
 
 ## License
 
-The software is provided under the [Apache-2.0 license](LICENSE-apache-2.0.txt).
+The software is provided under the [Apache-2.0 license](LICENSE).
 
 ## Documentation
 The epSDK Blinky QuickStart Guide and epSDK User Guide can be found on the [EP Documents Page][ep-doc-link]
