@@ -104,7 +104,7 @@ INC_FOLDERS += \
 
 # Libraries common to all targets
 LIB_FILES += \
-../libFiles/epBlinkyLibrary.a \
+$(wildcard $(PROJ_ROOT)/libFiles/epBlinkyLibrary*.a) \
 
 # Optimization flags
 OPT = -O2 -gdwarf-4
