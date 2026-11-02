@@ -41,10 +41,10 @@
 /* General defines */
 
 /* Version needs to be defined as string and ints */
-#define VERSION_NUM                         "00.00.01"                                   /**< Version. Will be passed to Device Information Service. */
+#define VERSION_NUM                         "00.00.02"                                   /**< Version. Will be passed to Device Information Service. */
 #define VERSION_MAJOR                       0
 #define VERSION_MINOR                       0
-#define VERSION_BUILD                       1
+#define VERSION_BUILD                       2
 
 /* Struct to hold system information */
 typedef struct
